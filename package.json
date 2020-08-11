@@ -1,0 +1,13 @@
+{
+  "name": "hello_kitty_app",
+  "version": "0.1.1",
+  "description": "Hello world template",
+  "author": "Will Bunker <thewillbunker@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
